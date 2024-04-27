@@ -1,0 +1,6 @@
+cal1.m是计算base-state
+cal2.m是计算扰动态选取base-state其中之一的参数的案例
+func1.m是计算base-state的废案，没用
+symcal2.m顾名思义代数计算矩阵行列式
+groupdata.xlsx记录所选取的初始条件
+cal3.m尝试代入所有的groupdata（也是其中的一组解）去尝试lambda大于0
